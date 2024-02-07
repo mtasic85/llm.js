@@ -2,7 +2,7 @@ set -e
 
 BUILD_DIR=build
 
-LLAMA_HASH="8e672ef"
+LLAMA_HASH="8c933b7"
 LLAMA_DIR=$BUILD_DIR/llama-cpp
 
 TARGET_DIR=$BUILD_DIR/llama-bin

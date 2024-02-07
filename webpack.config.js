@@ -63,7 +63,7 @@ export default {
       ],
     }),
   ],
-  // mode: "development",
+  mode: "production",
   experiments: {
     outputModule: true,
   },
